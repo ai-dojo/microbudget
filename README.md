@@ -25,7 +25,12 @@ In this talk we explore ideas for the rest of us, the GPU-poor. Taking examples 
 
 ## Setup
 
+1. Clone repository
+2. Install requirements listed in `requirements.txt`, e.g.
 
+> `pip install -r requirements.txt`
+
+3. Run workflow notebooks.
 
 ---
 _This material is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). Copyright © 2024 [Christian Staudt](https://clstaudt.me), [Katharina Rasch](https://krasch.io)_
