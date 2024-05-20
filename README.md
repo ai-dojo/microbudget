@@ -4,7 +4,7 @@
   <h2 align="center">AI on a Microbudget</h2>
 
   <a href="https://github.com/clstaudt/audiomariner">
-    <img src="fig/logo.png" alt="Logo" width="140" height="140">
+    <img src="fig/logo.jpg" alt="Logo" width="140" height="140">
   </a>
 
 
