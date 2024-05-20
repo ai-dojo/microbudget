@@ -1,0 +1,11 @@
+git+https://github.com/ai-dojo/ai-dojo-lib.git
+tensorflow
+tensorflow-datasets
+llama-cpp-python
+ollama
+torchaudio
+SoundFile
+openai-whisper
+transformers
+jiwer
+accelerate
